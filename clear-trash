@@ -3,3 +3,4 @@
 rm logical-foundations/*.html
 rm -rf logical-foundations/common
 rm logical-foundations/*.map
+rm logical-foundations/*.gif
