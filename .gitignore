@@ -2,4 +2,4 @@
 *.glob
 *.vo
 Makefile.conf
-Makefile
+.DS_Store

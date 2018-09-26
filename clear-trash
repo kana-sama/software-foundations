@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-rm logical-foundations/*.html
-rm -rf logical-foundations/common
-rm logical-foundations/*.map
-rm logical-foundations/*.gif
+rm lf/*.html
+rm -rf lf/common
+rm lf/*.map
+rm lf/*.gif
