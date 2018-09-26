@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "_CoqProject": true,
+    "*.html": true,
+    "*.map": true,
+    "LICENSE": true,
+    "Makefile": true,
+    "README": true,
+    ".depend": true,
+    ".coqdeps.d": true,
+    "common": true,
+    ".vscode": true
+  }
+}
