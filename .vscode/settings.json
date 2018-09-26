@@ -2,6 +2,9 @@
   "files.exclude": {
     "_CoqProject": true,
     "*.html": true,
+    "*Test.v": true,
+    "*.ml": true,
+    "*.mli": true,
     "*.map": true,
     "LICENSE": true,
     "Makefile": true,
