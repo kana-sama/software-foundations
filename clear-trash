@@ -1,0 +1,5 @@
+#! /usr/bin/env bash
+
+rm logical-foundations/*.html
+rm -rf logical-foundations/common
+rm logical-foundations/*.map
