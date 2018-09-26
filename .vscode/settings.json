@@ -12,6 +12,10 @@
     ".depend": true,
     ".coqdeps.d": true,
     "common": true,
-    ".vscode": true
+    ".vscode": true,
+    "Makefile.conf": true,
+    "*.glob": true,
+    "*.aux": true,
+    "*.vo": true
   }
 }
